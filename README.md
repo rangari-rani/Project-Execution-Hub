@@ -46,4 +46,5 @@ Some of the technologies used in the development of this web application are as 
 1. **Dashboard**: keep track of users registered. 
 2. **Payment & Transactions**: Monitor incoming payments for upgrade projects. 
 
-
+### License :
+[MIT License](LICENSE)
