@@ -43,10 +43,7 @@ Some of the technologies used in the development of this web application are as 
    - **Reviews** : Share their reviews about project.
 
   ### Admin Features:
-1.  **Dashboard**:
-   - **Fetch users list** : keep track of users registered. 
-
-2. **Payment & Transactions**:
-   - **Track payments** : Monitor incoming payments for upgrade projects. 
+1. **Dashboard**: keep track of users registered. 
+2. **Payment & Transactions**: Monitor incoming payments for upgrade projects. 
 
 
