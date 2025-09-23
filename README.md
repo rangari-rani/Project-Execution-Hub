@@ -9,20 +9,6 @@ A full-stack web application for collaborative project planning and task executi
 
 ---
 
-## 📚 About This Project
-
-**Project Execution Hub** is a collaborative task and team management platform built using **Spring Boot** and **React** during my **PG-DAC training at CDAC (2023)**.  
-
-Key highlights include:  
-- ✅ Dynamic project creation with categories (Frontend, Backend, Full Stack)
-- 👥 Member invitation via email and real-time role assignment
-- 📌 Issue tracking across To-Do, In Progress, and Done stages
-- 🔎 Tag and category-based project filtering for intuitive navigation
-
-> 🕒 _Organized and published later for clarity, learning, and portfolio presentation._
-
----
-
 ## 🛠️ Tech Stack
 
 - **[React.js](https://reactjs.org/)** – Frontend library for building dynamic user interfaces.
@@ -70,16 +56,6 @@ _Pricing Page_
 
 ---
 
-## 🔄 What Came Next
-
-This project helped me apply full-stack skills in the context of real-time team collaboration—featuring project planning, member roles, and status-based task handling.  
-
-After this, I shifted focus toward building **enterprise-grade full-stack applications** using **Spring Boot and ReactJS**, applying concepts like modular monoliths, layered architecture, and production-grade backend APIs.
-
-📌 **Explore my pinned repositories to see enterprise-grade full-stack apps built with Spring Boot and ReactJS.**
-
----
-
 ## 📁 Project Structure & Detailed Documentation
 
 This repository is organized into multiple folders, each with its own README to help you get started quickly and understand that part of the project:
@@ -98,8 +74,7 @@ This repository is organized into multiple folders, each with its own README to 
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-cdac.git
-cd Project-Execution-Hub
+git clone https://github.com/rangari-rani/Project-Execution-Hub.git
 ```
 
 ## 2. Start the backend
@@ -131,6 +106,5 @@ npm run dev
 
 ## 📬 Contact
 
-🎓 Built as part of PG-DAC (CDAC) academic learning, 2023.   
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
